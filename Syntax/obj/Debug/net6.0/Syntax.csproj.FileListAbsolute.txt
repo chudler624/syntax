@@ -1,0 +1,15 @@
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\bin\Debug\net6.0\Syntax.exe
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\bin\Debug\net6.0\Syntax.deps.json
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\bin\Debug\net6.0\Syntax.runtimeconfig.json
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\bin\Debug\net6.0\Syntax.dll
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\bin\Debug\net6.0\Syntax.pdb
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.csproj.AssemblyReference.cache
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.AssemblyInfoInputs.cache
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.AssemblyInfo.cs
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.csproj.CoreCompileInputs.cache
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.dll
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\refint\Syntax.dll
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.pdb
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\Syntax.genruntimeconfig.cache
+C:\Users\chudl\Desktop\repos\Syntax\Syntax\Syntax\obj\Debug\net6.0\ref\Syntax.dll
